@@ -12,5 +12,5 @@
 
 
 
-# sql-database-engineering-labs
+# database-engineering
 DBA | Enterprise | Administration | Management 

@@ -29,3 +29,117 @@ Los principales objetivos incluyen:
 
 ---
 
+## Scope
+
+Este repositorio comprende el estudio, documentación y desarrollo práctico de tecnologías relacionadas con bases de datos, modelado de información, administración de plataformas de bases de datos, desarrollo de consultas, optimización del rendimiento y gestión de datos en ambientes empresariales.
+
+El alcance del proyecto incluye los siguientes dominios tecnológicos:
+
+---
+
+### SQL
+
+Fundamentos del lenguaje SQL utilizados para la manipulación y consulta de bases de datos relacionales.
+
+Áreas principales:
+
+- Data Definition Language (DDL)
+- Data Manipulation Language (DML)
+- Data Query Language (DQL)
+- Data Control Language (DCL)
+- Transaction Control Language (TCL)
+- Joins
+- Views
+- Indexes
+- Functions
+- Stored Queries
+
+---
+
+### Oracle Database
+
+Documentación y laboratorios relacionados con el ecosistema Oracle Database.
+
+Áreas principales:
+
+- Oracle SQL
+- PL/SQL
+- Database Administration
+- Backup and Recovery
+- Performance Tuning
+- Security
+- High Availability
+- Oracle Enterprise Features
+
+---
+
+### MySQL
+
+Administración y desarrollo sobre plataformas MySQL.
+
+Áreas principales:
+
+- Database Administration
+- User Management
+- Backup
+- Replication
+- Performance
+- Security
+
+---
+
+### PostgreSQL
+
+Tecnologías y administración de bases de datos PostgreSQL.
+
+Áreas principales:
+
+- Database Administration
+- SQL Development
+- Replication
+- Backup
+- Performance
+- Extensions
+
+---
+
+### Microsoft SQL Server
+
+Administración de Microsoft SQL Server y sus componentes empresariales.
+
+Áreas principales:
+
+- SQL Server Administration
+- T-SQL
+- Security
+- Backup and Recovery
+- Performance Monitoring
+- High Availability
+
+---
+
+### MongoDB
+
+Administración y desarrollo sobre bases de datos NoSQL.
+
+Áreas principales:
+
+- Collections
+- Documents
+- CRUD Operations
+- Aggregation Framework
+- Replication
+- Sharding
+
+---
+
+## Out of Scope
+
+Los siguientes dominios tecnológicos mantienen repositorios independientes:
+
+- Linux Administration → Linux Engineering
+- Microsoft Technologies → Microsoft Engineering
+- Infrastructure Technologies → Infrastructure Engineering
+- Cybersecurity → Cybersecurity Engineering
+
+

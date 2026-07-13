@@ -142,4 +142,37 @@ Los siguientes dominios tecnológicos mantienen repositorios independientes:
 - Infrastructure Technologies → Infrastructure Engineering
 - Cybersecurity → Cybersecurity Engineering
 
+## Repository Architecture
+
+La estructura del repositorio está organizada por dominios tecnológicos.
+
+Cada dominio mantiene de forma independiente su documentación, laboratorios, proyectos, recursos y rutas de aprendizaje.
+
+### Example
+
+```text
+database-engineering/
+
+├── sql/
+│
+├── relational-databases/
+│   ├── oracle/
+│   ├── postgresql/
+│   ├── mysql/
+│   ├── sql-server/
+│   └── sqlite/
+│
+├── nosql-databases/
+│   ├── mongodb/
+│   ├── redis/
+│   ├── cassandra/
+│   └── couchdb/
+│
+├── database-design/
+├── data-modeling/
+├── database-security/
+├── backup-recovery/
+├── performance/
+└── high-availability/
+```
 

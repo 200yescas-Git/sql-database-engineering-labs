@@ -195,6 +195,17 @@ Incluye:
 
 Esta sección contiene laboratorios prácticos desarrollados para fortalecer conocimientos técnicos.
 
+Los laboratorios documentarán escenarios prácticos relacionados con:
+
+- Consultas SQL.
+- Diseño de bases de datos.
+- Administración de usuarios.
+- Optimización.
+- Seguridad.
+- Respaldos.
+- Restauración.
+- Configuración de motores de bases de datos.
+
 Cada laboratorio incluye:
 
 - Objetivo.
@@ -214,6 +225,27 @@ labs/
 ├── lab-02-name/
 └── lab-03-name/
 ```
+
+---
+
+## Projects
+
+Los proyectos estarán orientados a aplicar conocimientos en escenarios reales.
+
+Ejemplos:
+
+- Diseño de bases de datos empresariales.
+- Sistemas de inventario.
+- Sistemas académicos.
+- Automatización mediante SQL.
+- Integración con aplicaciones.
+- Optimización de rendimiento.
+
+---
+
+## Learning Paths
+
+Cada plataforma mantendrá sus propias rutas de aprendizaje y certificaciones dentro de su dominio correspondiente.
 
 ---
 

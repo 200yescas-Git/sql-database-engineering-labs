@@ -191,6 +191,32 @@ Incluye:
 
 ---
 
+## Labs
+
+Esta sección contiene laboratorios prácticos desarrollados para fortalecer conocimientos técnicos.
+
+Cada laboratorio incluye:
+
+- Objetivo.
+- Requerimientos.
+- Configuración utilizada.
+- Procedimiento.
+- Evidencia técnica.
+- Resultados obtenidos.
+- Lecciones aprendidas.
+
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
+---
+
 
 
 

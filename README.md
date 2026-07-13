@@ -281,7 +281,37 @@ Las áreas consideradas incluyen:
 
 ---
 
+## Roadmap
 
+### Phase 1 — SQL Foundations
+
+- SQL Fundamentals
+- Data Definition Language
+- Data Manipulation Language
+- Joins
+- Functions
+- Subqueries
+
+### Phase 2 — Database Administration
+
+- Usuarios
+- Roles
+- Seguridad
+- Respaldos
+- Restauración
+
+### Phase 3 — Enterprise Database Platforms
+
+- Oracle
+- PostgreSQL
+- MySQL
+- SQL Server
+
+### Phase 4 — Professional Projects
+
+Implementación de proyectos orientados a escenarios empresariales.
+
+---
 
 
 

@@ -176,3 +176,22 @@ database-engineering/
 └── high-availability/
 ```
 
+## Technical Domains
+
+### Domain Name
+
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+---
+
+
+
+
+

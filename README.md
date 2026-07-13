@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">DATABASE</h1>
-<p align="center">CompTIA | Networking | Mixed Environment | Virtualization | Cisco | Palo Alto | Juniper | Fortinet | Ubiquiti | Web Servers | Storage | </p>
+<p align="center">MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | MariaDB | MongoDB | SQLite</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
 
